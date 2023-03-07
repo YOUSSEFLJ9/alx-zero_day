@@ -6,4 +6,5 @@ git commit -m
 git push
 git pull
 git bransh
-git status 
+git status
+git checkout
