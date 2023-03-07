@@ -1,0 +1,9 @@
+git config --global user.email
+git config --global user.name
+git clone
+git add
+git commit -m
+git push
+git pull
+git bransh
+git status 
